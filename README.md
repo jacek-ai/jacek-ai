@@ -1,16 +1,12 @@
-# Hi, I'm Jacek 👋
+# AI Engineer building enterprise-grade agent-based AI systems on Microsoft Azure
 
-AI Engineer designing enterprise-grade agent-based Generative AI systems on Microsoft Azure.
+I design and implement reliable reasoning systems using Retrieval-Augmented Generation (RAG), LLM orchestration, and secure enterprise architecture patterns — especially in regulated environments such as insurance and finance.
 
-I focus on building reliable reasoning systems using Retrieval-Augmented Generation (RAG), LLM orchestration, and secure enterprise architecture patterns — especially in regulated environments such as insurance and finance.
+## Featured Project
 
+### Azure Insurance Assistant — Agent-based RAG system
 
-
-## 🚀 Featured Work
-
-### Azure Insurance Assistant
-
-Production-oriented RAG architecture designed for insurance consultants working with complex, versioned policy documentation.
+Production-oriented architecture supporting insurance consultants working with complex, versioned policy documentation.
 
 Key architectural concepts:
 
@@ -18,40 +14,37 @@ Key architectural concepts:
 - Strict policy-context isolation for regulatory-safe reasoning
 - Agent-based tool orchestration (Azure AI Foundry)
 - Controlled retrieval workflows
-- Enterprise security (Managed Identity, RBAC)
+- Enterprise security patterns (Managed Identity, RBAC)
 - Infrastructure-as-Code deployment (Bicep)
 
 Goal: reduce hallucination risk and improve traceability of AI-generated responses.
 
+## Architecture Focus
 
-
-## 🧠 Engineering Focus
-
-- Generative AI & LLM integration (Azure OpenAI)
-- RAG and agentic architectures
-- Intelligent document processing
-- Enterprise AI systems for regulated environments
+- Designing agent-based reasoning systems
+- Retrieval-Augmented Generation (RAG) architectures
+- LLM orchestration with LangChain / LangGraph
+- Secure enterprise AI systems on Microsoft Azure
 - Bridging AI architecture decisions with real business workflows
 
+## Exploration & Prototyping
 
-
-## 🧪 Exploration & Prototyping
-
-- LangChain / LangGraph orchestration experiments
+- LangChain and LangGraph orchestration experiments
 - Retrieval workflow design
-- Early prototyping using Python and Streamlit
+- Early prototyping with Python and Streamlit
 
+## Background
 
+Microsoft Certified: Azure AI Engineer Associate with 20+ years of experience in software engineering, architecture and delivery across insurance, banking and public sector systems.
 
-## 👨‍💻 Background
+## Tech Stack
 
-Microsoft Certified: Azure AI Engineer Associate.
-
-With 20+ years in software engineering, architecture, and delivery across insurance, banking, and public sector systems, I combine deep technical experience with business-oriented AI system design.
-
-
-
-## 🛠️ Tech Stack
-
-Azure OpenAI · Azure AI Foundry · Azure AI Search  
-Python · LangChain · LangGraph · Pinecone · Streamlit
+- Azure OpenAI
+- Azure AI Foundry
+- Azure AI Search
+- Azure Functions
+- Python
+- LangChain
+- LangGraph
+- Pinecone
+- GitHub Actions (CI/CD)
